@@ -1,9 +1,11 @@
 # countryGeolocation
 
 Views:
-- [canada](https://github.com/DRINGOT/countryGeolocation/tree/master/CANADA/canadaView.json)
-- [usa](https://github.com/DRINGOT/countryGeolocation/tree/master/USA/usaView.json)
+
+- [🇨🇦 Canada](https://github.com/DRINGOT/countryGeolocation/tree/master/CANADA/canadaView.json)
+- [🇺🇸 United States](https://github.com/DRINGOT/countryGeolocation/tree/master/USA/usaView.json)
 
 Geolocation:
-- [canada](https://github.com/DRINGOT/countryGeolocation/tree/master/CANADA/canada.json)
-- [usa](https://github.com/DRINGOT/countryGeolocation/tree/master/USA/usa.json)
+- [🇨🇦 Canada](https://github.com/DRINGOT/countryGeolocation/tree/master/CANADA/canada.json)
+- [🇺🇸 United States](https://github.com/DRINGOT/countryGeolocation/tree/master/USA/usa.json)
+
