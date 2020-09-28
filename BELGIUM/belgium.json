@@ -1,0 +1,602 @@
+[
+  {
+    "name": "Brussels",
+    "latitude": 50.85045,
+    "longitude": 4.34878,
+    "population": 1019022
+  },
+  {
+    "name": "Antwerpen",
+    "latitude": 51.21989,
+    "longitude": 4.40346,
+    "population": 459805
+  },
+  {
+    "name": "Gent",
+    "latitude": 51.05,
+    "longitude": 3.71667,
+    "population": 231493
+  },
+  {
+    "name": "Charleroi",
+    "latitude": 50.41136,
+    "longitude": 4.44448,
+    "population": 200132
+  },
+  {
+    "name": "Liège",
+    "latitude": 50.63373,
+    "longitude": 5.56749,
+    "population": 182597
+  },
+  {
+    "name": "Brugge",
+    "latitude": 51.20892,
+    "longitude": 3.22424,
+    "population": 116709
+  },
+  {
+    "name": "Namur",
+    "latitude": 50.4669,
+    "longitude": 4.86746,
+    "population": 106284
+  },
+  {
+    "name": "Leuven",
+    "latitude": 50.87959,
+    "longitude": 4.70093,
+    "population": 92892
+  },
+  {
+    "name": "Mons",
+    "latitude": 50.45413,
+    "longitude": 3.95229,
+    "population": 91277
+  },
+  {
+    "name": "Aalst",
+    "latitude": 50.93604,
+    "longitude": 4.0355,
+    "population": 77534
+  },
+  {
+    "name": "Mechelen",
+    "latitude": 51.02574,
+    "longitude": 4.47762,
+    "population": 77530
+  },
+  {
+    "name": "La Louvière",
+    "latitude": 50.48657,
+    "longitude": 4.18785,
+    "population": 76668
+  },
+  {
+    "name": "Kortrijk",
+    "latitude": 50.82803,
+    "longitude": 3.26487,
+    "population": 73879
+  },
+  {
+    "name": "Hasselt",
+    "latitude": 50.93106,
+    "longitude": 5.33781,
+    "population": 69222
+  },
+  {
+    "name": "Ostend",
+    "latitude": 51.21551,
+    "longitude": 2.927,
+    "population": 69011
+  },
+  {
+    "name": "Sint-Niklaas",
+    "latitude": 51.16509,
+    "longitude": 4.1437,
+    "population": 69010
+  },
+  {
+    "name": "Tournai",
+    "latitude": 50.60715,
+    "longitude": 3.38932,
+    "population": 67721
+  },
+  {
+    "name": "Genk",
+    "latitude": 50.965,
+    "longitude": 5.50082,
+    "population": 63666
+  },
+  {
+    "name": "Seraing",
+    "latitude": 50.58362,
+    "longitude": 5.50115,
+    "population": 60737
+  },
+  {
+    "name": "Roeselare",
+    "latitude": 50.94653,
+    "longitude": 3.12269,
+    "population": 56016
+  },
+  {
+    "name": "Verviers",
+    "latitude": 50.58907,
+    "longitude": 5.86241,
+    "population": 52824
+  },
+  {
+    "name": "Mouscron",
+    "latitude": 50.74497,
+    "longitude": 3.20639,
+    "population": 52069
+  },
+  {
+    "name": "Beveren",
+    "latitude": 51.21187,
+    "longitude": 4.25633,
+    "population": 45179
+  },
+  {
+    "name": "Dendermonde",
+    "latitude": 51.02869,
+    "longitude": 4.10106,
+    "population": 43055
+  },
+  {
+    "name": "Beringen",
+    "latitude": 51.04954,
+    "longitude": 5.22606,
+    "population": 40930
+  },
+  {
+    "name": "Turnhout",
+    "latitude": 51.32254,
+    "longitude": 4.94471,
+    "population": 39654
+  },
+  {
+    "name": "Dilbeek",
+    "latitude": 50.84799,
+    "longitude": 4.25972,
+    "population": 39482
+  },
+  {
+    "name": "Heist-op-den-Berg",
+    "latitude": 51.07537,
+    "longitude": 4.72827,
+    "population": 37873
+  },
+  {
+    "name": "Sint-Truiden",
+    "latitude": 50.81679,
+    "longitude": 5.18647,
+    "population": 37859
+  },
+  {
+    "name": "Lokeren",
+    "latitude": 51.10364,
+    "longitude": 3.99339,
+    "population": 37567
+  },
+  {
+    "name": "Braine-l'Alleud",
+    "latitude": 50.68363,
+    "longitude": 4.36784,
+    "population": 37512
+  },
+  {
+    "name": "Brasschaat",
+    "latitude": 51.2912,
+    "longitude": 4.49182,
+    "population": 37040
+  },
+  {
+    "name": "Vilvoorde",
+    "latitude": 50.92814,
+    "longitude": 4.42938,
+    "population": 36955
+  },
+  {
+    "name": "Herstal",
+    "latitude": 50.66415,
+    "longitude": 5.62346,
+    "population": 36503
+  },
+  {
+    "name": "Maasmechelen",
+    "latitude": 50.96545,
+    "longitude": 5.69452,
+    "population": 36251
+  },
+  {
+    "name": "Waregem",
+    "latitude": 50.88898,
+    "longitude": 3.42756,
+    "population": 35896
+  },
+  {
+    "name": "Châtelet",
+    "latitude": 50.40338,
+    "longitude": 4.52826,
+    "population": 35238
+  },
+  {
+    "name": "Ieper",
+    "latitude": 50.85114,
+    "longitude": 2.88569,
+    "population": 35089
+  },
+  {
+    "name": "Ninove",
+    "latitude": 50.82776,
+    "longitude": 4.02657,
+    "population": 34795
+  },
+  {
+    "name": "Geel",
+    "latitude": 51.16557,
+    "longitude": 4.98917,
+    "population": 34697
+  },
+  {
+    "name": "Halle",
+    "latitude": 50.73385,
+    "longitude": 4.23454,
+    "population": 34479
+  },
+  {
+    "name": "Hoboken",
+    "latitude": 51.17611,
+    "longitude": 4.34844,
+    "population": 34443
+  },
+  {
+    "name": "Knokke-Heist",
+    "latitude": 51.35,
+    "longitude": 3.26667,
+    "population": 33781
+  },
+  {
+    "name": "Schoten",
+    "latitude": 51.25251,
+    "longitude": 4.50268,
+    "population": 33622
+  },
+  {
+    "name": "Grimbergen",
+    "latitude": 50.93409,
+    "longitude": 4.37213,
+    "population": 33561
+  },
+  {
+    "name": "Lier",
+    "latitude": 51.13128,
+    "longitude": 4.57041,
+    "population": 33272
+  },
+  {
+    "name": "Mol",
+    "latitude": 51.19188,
+    "longitude": 5.11662,
+    "population": 32659
+  },
+  {
+    "name": "Wavre",
+    "latitude": 50.71717,
+    "longitude": 4.60138,
+    "population": 32112
+  },
+  {
+    "name": "Binche",
+    "latitude": 50.41155,
+    "longitude": 4.16469,
+    "population": 32030
+  },
+  {
+    "name": "Lommel",
+    "latitude": 51.23074,
+    "longitude": 5.31349,
+    "population": 31993
+  },
+  {
+    "name": "Menen",
+    "latitude": 50.79722,
+    "longitude": 3.12245,
+    "population": 31916
+  },
+  {
+    "name": "Tienen",
+    "latitude": 50.80745,
+    "longitude": 4.9378,
+    "population": 31743
+  },
+  {
+    "name": "Evergem",
+    "latitude": 51.10529,
+    "longitude": 3.704,
+    "population": 31615
+  },
+  {
+    "name": "Heusden",
+    "latitude": 51.03664,
+    "longitude": 5.28013,
+    "population": 31017
+  },
+  {
+    "name": "Wevelgem",
+    "latitude": 50.8,
+    "longitude": 3.16667,
+    "population": 30954
+  },
+  {
+    "name": "Geraardsbergen",
+    "latitude": 50.77343,
+    "longitude": 3.88223,
+    "population": 30807
+  },
+  {
+    "name": "Sint-Pieters-Leeuw",
+    "latitude": 50.77926,
+    "longitude": 4.24355,
+    "population": 30446
+  },
+  {
+    "name": "Houthalen",
+    "latitude": 51.03427,
+    "longitude": 5.37429,
+    "population": 30050
+  },
+  {
+    "name": "Helchteren",
+    "latitude": 51.05591,
+    "longitude": 5.38244,
+    "population": 30050
+  },
+  {
+    "name": "Tongeren",
+    "latitude": 50.78054,
+    "longitude": 5.46484,
+    "population": 29816
+  },
+  {
+    "name": "Deinze",
+    "latitude": 50.98175,
+    "longitude": 3.53096,
+    "population": 29815
+  },
+  {
+    "name": "Waterloo",
+    "latitude": 50.71469,
+    "longitude": 4.3991,
+    "population": 29778
+  },
+  {
+    "name": "Bilzen",
+    "latitude": 50.87325,
+    "longitude": 5.5184,
+    "population": 29622
+  },
+  {
+    "name": "Louvain-la-Neuve",
+    "latitude": 50.66829,
+    "longitude": 4.61443,
+    "population": 29521
+  },
+  {
+    "name": "Courcelles",
+    "latitude": 50.46379,
+    "longitude": 4.3747,
+    "population": 29473
+  },
+  {
+    "name": "Asse",
+    "latitude": 50.91011,
+    "longitude": 4.19836,
+    "population": 28985
+  },
+  {
+    "name": "Zaventem",
+    "latitude": 50.88365,
+    "longitude": 4.47298,
+    "population": 28188
+  },
+  {
+    "name": "Oudenaarde",
+    "latitude": 50.85168,
+    "longitude": 3.60891,
+    "population": 27935
+  },
+  {
+    "name": "Aarschot",
+    "latitude": 50.98715,
+    "longitude": 4.83695,
+    "population": 27656
+  },
+  {
+    "name": "Ans",
+    "latitude": 50.6623,
+    "longitude": 5.52029,
+    "population": 27297
+  },
+  {
+    "name": "Ath",
+    "latitude": 50.62937,
+    "longitude": 3.77801,
+    "population": 26681
+  },
+  {
+    "name": "Kapellen",
+    "latitude": 51.31377,
+    "longitude": 4.43539,
+    "population": 26410
+  },
+  {
+    "name": "Izegem",
+    "latitude": 50.91396,
+    "longitude": 3.21378,
+    "population": 26382
+  },
+  {
+    "name": "Arlon",
+    "latitude": 49.68333,
+    "longitude": 5.81667,
+    "population": 26179
+  },
+  {
+    "name": "Temse",
+    "latitude": 51.12794,
+    "longitude": 4.21372,
+    "population": 26054
+  },
+  {
+    "name": "Harelbeke",
+    "latitude": 50.85343,
+    "longitude": 3.30935,
+    "population": 25978
+  },
+  {
+    "name": "Herentals",
+    "latitude": 51.17655,
+    "longitude": 4.83248,
+    "population": 25912
+  },
+  {
+    "name": "Brecht",
+    "latitude": 51.35024,
+    "longitude": 4.63829,
+    "population": 25908
+  },
+  {
+    "name": "Flémalle-Haute",
+    "latitude": 50.59994,
+    "longitude": 5.44471,
+    "population": 25144
+  },
+  {
+    "name": "Soignies",
+    "latitude": 50.57904,
+    "longitude": 4.07129,
+    "population": 24869
+  },
+  {
+    "name": "Lanaken",
+    "latitude": 50.89318,
+    "longitude": 5.6468,
+    "population": 24771
+  },
+  {
+    "name": "Mortsel",
+    "latitude": 51.16697,
+    "longitude": 4.45127,
+    "population": 24525
+  },
+  {
+    "name": "Zottegem",
+    "latitude": 50.86955,
+    "longitude": 3.81052,
+    "population": 24434
+  },
+  {
+    "name": "Ronse",
+    "latitude": 50.74574,
+    "longitude": 3.6005,
+    "population": 24204
+  },
+  {
+    "name": "Nivelles",
+    "latitude": 50.59833,
+    "longitude": 4.32848,
+    "population": 24149
+  },
+  {
+    "name": "Andenne",
+    "latitude": 50.48941,
+    "longitude": 5.09513,
+    "population": 24055
+  },
+  {
+    "name": "Maaseik",
+    "latitude": 51.09802,
+    "longitude": 5.78379,
+    "population": 23684
+  },
+  {
+    "name": "Oupeye",
+    "latitude": 50.71184,
+    "longitude": 5.6468,
+    "population": 23594
+  },
+  {
+    "name": "Overijse",
+    "latitude": 50.77436,
+    "longitude": 4.53461,
+    "population": 23486
+  },
+  {
+    "name": "Zwevegem",
+    "latitude": 50.81268,
+    "longitude": 3.33848,
+    "population": 23358
+  },
+  {
+    "name": "Beersel",
+    "latitude": 50.76589,
+    "longitude": 4.3002,
+    "population": 23228
+  },
+  {
+    "name": "Wetteren",
+    "latitude": 51.00526,
+    "longitude": 3.88341,
+    "population": 22930
+  },
+  {
+    "name": "Hamme",
+    "latitude": 51.09822,
+    "longitude": 4.13705,
+    "population": 22891
+  },
+  {
+    "name": "Willebroek",
+    "latitude": 51.06041,
+    "longitude": 4.36019,
+    "population": 22808
+  },
+  {
+    "name": "Saint-Nicolas",
+    "latitude": 50.62837,
+    "longitude": 5.53243,
+    "population": 22586
+  },
+  {
+    "name": "Westerlo",
+    "latitude": 51.09049,
+    "longitude": 4.91544,
+    "population": 22579
+  },
+  {
+    "name": "Diest",
+    "latitude": 50.98923,
+    "longitude": 5.05062,
+    "population": 22516
+  },
+  {
+    "name": "Saint-Ghislain",
+    "latitude": 50.44816,
+    "longitude": 3.81886,
+    "population": 22500
+  },
+  {
+    "name": "Manage",
+    "latitude": 50.50312,
+    "longitude": 4.23589,
+    "population": 22196
+  },
+  {
+    "name": "Maldegem",
+    "latitude": 51.20737,
+    "longitude": 3.44511,
+    "population": 22092
+  }
+]
