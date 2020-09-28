@@ -1,0 +1,602 @@
+[
+  {
+    "name": "Moscow",
+    "latitude": 55.75222,
+    "longitude": 37.61556,
+    "population": 10381222
+  },
+  {
+    "name": "Saint Petersburg",
+    "latitude": 59.93863,
+    "longitude": 30.31413,
+    "population": 5028000
+  },
+  {
+    "name": "Novosibirsk",
+    "latitude": 55.0415,
+    "longitude": 82.9346,
+    "population": 1419007
+  },
+  {
+    "name": "Yekaterinburg",
+    "latitude": 56.8519,
+    "longitude": 60.6122,
+    "population": 1349772
+  },
+  {
+    "name": "Nizhniy Novgorod",
+    "latitude": 56.32867,
+    "longitude": 44.00205,
+    "population": 1284164
+  },
+  {
+    "name": "Samara",
+    "latitude": 53.20007,
+    "longitude": 50.15,
+    "population": 1134730
+  },
+  {
+    "name": "Omsk",
+    "latitude": 54.99244,
+    "longitude": 73.36859,
+    "population": 1129281
+  },
+  {
+    "name": "Kazan",
+    "latitude": 55.78874,
+    "longitude": 49.12214,
+    "population": 1104738
+  },
+  {
+    "name": "Rostov-na-Donu",
+    "latitude": 47.23135,
+    "longitude": 39.72328,
+    "population": 1074482
+  },
+  {
+    "name": "Chelyabinsk",
+    "latitude": 55.15402,
+    "longitude": 61.42915,
+    "population": 1062919
+  },
+  {
+    "name": "Ufa",
+    "latitude": 54.74306,
+    "longitude": 55.96779,
+    "population": 1033338
+  },
+  {
+    "name": "Volgograd",
+    "latitude": 48.71939,
+    "longitude": 44.50183,
+    "population": 1011417
+  },
+  {
+    "name": "Perm",
+    "latitude": 58.01046,
+    "longitude": 56.25017,
+    "population": 982419
+  },
+  {
+    "name": "Krasnoyarsk",
+    "latitude": 56.01839,
+    "longitude": 92.86717,
+    "population": 927200
+  },
+  {
+    "name": "Saratov",
+    "latitude": 51.54056,
+    "longitude": 46.00861,
+    "population": 863725
+  },
+  {
+    "name": "Voronezh",
+    "latitude": 51.67204,
+    "longitude": 39.1843,
+    "population": 848752
+  },
+  {
+    "name": "Tol’yatti",
+    "latitude": 53.5303,
+    "longitude": 49.3461,
+    "population": 702879
+  },
+  {
+    "name": "Krasnodar",
+    "latitude": 45.04484,
+    "longitude": 38.97603,
+    "population": 649851
+  },
+  {
+    "name": "Ulyanovsk",
+    "latitude": 54.32824,
+    "longitude": 48.38657,
+    "population": 640680
+  },
+  {
+    "name": "Izhevsk",
+    "latitude": 56.84976,
+    "longitude": 53.20448,
+    "population": 631038
+  },
+  {
+    "name": "Yaroslavl",
+    "latitude": 57.62987,
+    "longitude": 39.87368,
+    "population": 606730
+  },
+  {
+    "name": "Barnaul",
+    "latitude": 53.36056,
+    "longitude": 83.76361,
+    "population": 599579
+  },
+  {
+    "name": "Vladivostok",
+    "latitude": 43.10562,
+    "longitude": 131.87353,
+    "population": 587022
+  },
+  {
+    "name": "Irkutsk",
+    "latitude": 52.29778,
+    "longitude": 104.29639,
+    "population": 586695
+  },
+  {
+    "name": "Khabarovsk",
+    "latitude": 48.48271,
+    "longitude": 135.08379,
+    "population": 579000
+  },
+  {
+    "name": "Khabarovsk Vtoroy",
+    "latitude": 48.43776,
+    "longitude": 135.13329,
+    "population": 578303
+  },
+  {
+    "name": "Orenburg",
+    "latitude": 51.7727,
+    "longitude": 55.0988,
+    "population": 550204
+  },
+  {
+    "name": "Novokuznetsk",
+    "latitude": 53.7557,
+    "longitude": 87.1099,
+    "population": 539616
+  },
+  {
+    "name": "Ryazan’",
+    "latitude": 54.6269,
+    "longitude": 39.6916,
+    "population": 520173
+  },
+  {
+    "name": "Tyumen",
+    "latitude": 57.15222,
+    "longitude": 65.52722,
+    "population": 519119
+  },
+  {
+    "name": "Lipetsk",
+    "latitude": 52.60311,
+    "longitude": 39.57076,
+    "population": 515655
+  },
+  {
+    "name": "Penza",
+    "latitude": 53.20066,
+    "longitude": 45.00464,
+    "population": 512602
+  },
+  {
+    "name": "Naberezhnyye Chelny",
+    "latitude": 55.72545,
+    "longitude": 52.41122,
+    "population": 509870
+  },
+  {
+    "name": "Kalininskiy",
+    "latitude": 59.99675,
+    "longitude": 30.3899,
+    "population": 504641
+  },
+  {
+    "name": "Astrakhan",
+    "latitude": 46.34968,
+    "longitude": 48.04076,
+    "population": 502533
+  },
+  {
+    "name": "Makhachkala",
+    "latitude": 42.97638,
+    "longitude": 47.50236,
+    "population": 497959
+  },
+  {
+    "name": "Tomsk",
+    "latitude": 56.49771,
+    "longitude": 84.97437,
+    "population": 485519
+  },
+  {
+    "name": "Kemerovo",
+    "latitude": 55.33333,
+    "longitude": 86.08333,
+    "population": 477090
+  },
+  {
+    "name": "Tula",
+    "latitude": 54.19609,
+    "longitude": 37.61822,
+    "population": 468825
+  },
+  {
+    "name": "Kirov",
+    "latitude": 58.59665,
+    "longitude": 49.66007,
+    "population": 457383
+  },
+  {
+    "name": "Cheboksary",
+    "latitude": 56.13222,
+    "longitude": 47.25194,
+    "population": 446781
+  },
+  {
+    "name": "Kaliningrad",
+    "latitude": 54.70649,
+    "longitude": 20.51095,
+    "population": 434954
+  },
+  {
+    "name": "Bryansk",
+    "latitude": 53.25209,
+    "longitude": 34.37167,
+    "population": 427236
+  },
+  {
+    "name": "Ivanovo",
+    "latitude": 56.99719,
+    "longitude": 40.97139,
+    "population": 420839
+  },
+  {
+    "name": "Magnitogorsk",
+    "latitude": 53.41861,
+    "longitude": 59.04722,
+    "population": 413351
+  },
+  {
+    "name": "Kursk",
+    "latitude": 51.73733,
+    "longitude": 36.18735,
+    "population": 409431
+  },
+  {
+    "name": "Tver",
+    "latitude": 56.85836,
+    "longitude": 35.90057,
+    "population": 400212
+  },
+  {
+    "name": "Nizhny Tagil",
+    "latitude": 57.91944,
+    "longitude": 59.965,
+    "population": 381116
+  },
+  {
+    "name": "Stavropol’",
+    "latitude": 45.0428,
+    "longitude": 41.9734,
+    "population": 363064
+  },
+  {
+    "name": "Ulan-Ude",
+    "latitude": 51.82721,
+    "longitude": 107.60627,
+    "population": 360278
+  },
+  {
+    "name": "Arkhangel’sk",
+    "latitude": 64.5401,
+    "longitude": 40.5433,
+    "population": 356051
+  },
+  {
+    "name": "Belgorod",
+    "latitude": 50.61074,
+    "longitude": 36.58015,
+    "population": 345289
+  },
+  {
+    "name": "Kurgan",
+    "latitude": 55.45,
+    "longitude": 65.33333,
+    "population": 343129
+  },
+  {
+    "name": "Kaluga",
+    "latitude": 54.5293,
+    "longitude": 36.27542,
+    "population": 338978
+  },
+  {
+    "name": "Krasnogvargeisky",
+    "latitude": 59.97305,
+    "longitude": 30.47607,
+    "population": 337091
+  },
+  {
+    "name": "Sochi",
+    "latitude": 43.59917,
+    "longitude": 39.72569,
+    "population": 327608
+  },
+  {
+    "name": "Orël",
+    "latitude": 52.96508,
+    "longitude": 36.07849,
+    "population": 324200
+  },
+  {
+    "name": "Volzhskiy",
+    "latitude": 48.78583,
+    "longitude": 44.77973,
+    "population": 323293
+  },
+  {
+    "name": "Smolensk",
+    "latitude": 54.7818,
+    "longitude": 32.0401,
+    "population": 320991
+  },
+  {
+    "name": "Murmansk",
+    "latitude": 68.97917,
+    "longitude": 33.09251,
+    "population": 319263
+  },
+  {
+    "name": "Vladikavkaz",
+    "latitude": 43.03667,
+    "longitude": 44.66778,
+    "population": 317370
+  },
+  {
+    "name": "Cherepovets",
+    "latitude": 59.13333,
+    "longitude": 37.9,
+    "population": 315738
+  },
+  {
+    "name": "Vologda",
+    "latitude": 59.2239,
+    "longitude": 39.88398,
+    "population": 314900
+  },
+  {
+    "name": "Vladimir",
+    "latitude": 56.13655,
+    "longitude": 40.39658,
+    "population": 310024
+  },
+  {
+    "name": "Chita",
+    "latitude": 52.03171,
+    "longitude": 113.50087,
+    "population": 308500
+  },
+  {
+    "name": "Saransk",
+    "latitude": 54.1838,
+    "longitude": 45.1749,
+    "population": 303394
+  },
+  {
+    "name": "Surgut",
+    "latitude": 61.25,
+    "longitude": 73.41667,
+    "population": 300367
+  },
+  {
+    "name": "Tambov",
+    "latitude": 52.73169,
+    "longitude": 41.44326,
+    "population": 290933
+  },
+  {
+    "name": "Yoshkar-Ola",
+    "latitude": 56.63877,
+    "longitude": 47.89078,
+    "population": 279100
+  },
+  {
+    "name": "Taganrog",
+    "latitude": 47.23617,
+    "longitude": 38.89688,
+    "population": 279056
+  },
+  {
+    "name": "Kostroma",
+    "latitude": 57.76647,
+    "longitude": 40.92686,
+    "population": 277656
+  },
+  {
+    "name": "Komsomolsk-on-Amur",
+    "latitude": 50.55034,
+    "longitude": 137.00995,
+    "population": 275908
+  },
+  {
+    "name": "Nal’chik",
+    "latitude": 43.49806,
+    "longitude": 43.61889,
+    "population": 272800
+  },
+  {
+    "name": "Sterlitamak",
+    "latitude": 53.62462,
+    "longitude": 55.95015,
+    "population": 267231
+  },
+  {
+    "name": "Petrozavodsk",
+    "latitude": 61.78491,
+    "longitude": 34.34691,
+    "population": 265025
+  },
+  {
+    "name": "Bratsk",
+    "latitude": 56.1325,
+    "longitude": 101.61417,
+    "population": 256600
+  },
+  {
+    "name": "Orsk",
+    "latitude": 51.20487,
+    "longitude": 58.56685,
+    "population": 246836
+  },
+  {
+    "name": "Nizhnevartovsk",
+    "latitude": 60.9344,
+    "longitude": 76.5531,
+    "population": 244937
+  },
+  {
+    "name": "Angarsk",
+    "latitude": 52.53667,
+    "longitude": 103.88639,
+    "population": 243158
+  },
+  {
+    "name": "Mar’ino",
+    "latitude": 55.65,
+    "longitude": 37.71667,
+    "population": 243000
+  },
+  {
+    "name": "Novorossiysk",
+    "latitude": 44.72439,
+    "longitude": 37.76752,
+    "population": 241856
+  },
+  {
+    "name": "Khimki",
+    "latitude": 55.89704,
+    "longitude": 37.42969,
+    "population": 239967
+  },
+  {
+    "name": "Yakutsk",
+    "latitude": 62.03389,
+    "longitude": 129.73306,
+    "population": 235600
+  },
+  {
+    "name": "Nizhnekamsk",
+    "latitude": 55.63657,
+    "longitude": 51.82447,
+    "population": 234297
+  },
+  {
+    "name": "Dzerzhinsk",
+    "latitude": 56.24143,
+    "longitude": 43.45539,
+    "population": 233126
+  },
+  {
+    "name": "Syktyvkar",
+    "latitude": 61.67642,
+    "longitude": 50.80994,
+    "population": 230139
+  },
+  {
+    "name": "Staryy Oskol",
+    "latitude": 51.29667,
+    "longitude": 37.84167,
+    "population": 226977
+  },
+  {
+    "name": "Groznyy",
+    "latitude": 43.31195,
+    "longitude": 45.68895,
+    "population": 226100
+  },
+  {
+    "name": "Shakhty",
+    "latitude": 47.70911,
+    "longitude": 40.21443,
+    "population": 221312
+  },
+  {
+    "name": "Blagoveshchensk",
+    "latitude": 50.27961,
+    "longitude": 127.5405,
+    "population": 221296
+  },
+  {
+    "name": "Prokop’yevsk",
+    "latitude": 53.9059,
+    "longitude": 86.719,
+    "population": 219000
+  },
+  {
+    "name": "Rybinsk",
+    "latitude": 58.0446,
+    "longitude": 38.84259,
+    "population": 216724
+  },
+  {
+    "name": "Vykhino-Zhulebino",
+    "latitude": 55.70196,
+    "longitude": 37.81178,
+    "population": 216000
+  },
+  {
+    "name": "Zelenograd",
+    "latitude": 55.9825,
+    "longitude": 37.18139,
+    "population": 215727
+  },
+  {
+    "name": "Biysk",
+    "latitude": 52.53639,
+    "longitude": 85.20722,
+    "population": 215430
+  },
+  {
+    "name": "Velikiy Novgorod",
+    "latitude": 58.52131,
+    "longitude": 31.27104,
+    "population": 215062
+  },
+  {
+    "name": "Centralniy",
+    "latitude": 59.93111,
+    "longitude": 30.36072,
+    "population": 214625
+  },
+  {
+    "name": "Vasyl'evsky Ostrov",
+    "latitude": 59.94091,
+    "longitude": 30.25377,
+    "population": 203058
+  },
+  {
+    "name": "Pskov",
+    "latitude": 57.8136,
+    "longitude": 28.3496,
+    "population": 201990
+  },
+  {
+    "name": "Severnyy",
+    "latitude": 55.93583,
+    "longitude": 37.54889,
+    "population": 200000
+  }
+]
