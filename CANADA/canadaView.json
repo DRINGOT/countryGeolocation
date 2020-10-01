@@ -5,7 +5,10 @@
       "type": "Feature",
       "id": "CAN",
       "properties": {
-        "name": "Canada"
+        "name": "Canada",
+        "population":37946536,
+        "capital":"Ottawa",
+        "flag":"🇨🇦"
       },
       "geometry": {
         "type": "MultiPolygon",
