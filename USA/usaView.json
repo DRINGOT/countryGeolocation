@@ -5,7 +5,10 @@
       "type": "Feature",
       "id": "USA",
       "properties": {
-        "name": "United States of America"
+        "name": "United States of America",
+        "population":330252859 ,
+        "capital":"Washington, D.C.",
+        "flag":"🇺🇸"
       },
       "geometry": {
         "type": "MultiPolygon",
